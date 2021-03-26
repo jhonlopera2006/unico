@@ -1,0 +1,149 @@
+.p{
+	position: absolute;
+	top: 30px;
+	left: 400px;
+	width: 580px;
+	height: 1000px;
+	background: red;
+}
+.t{ 
+	position: absolute;
+	top: 7px;
+	left: 210px;
+	color: black;
+	font-size:20px; 
+	
+}
+.c{
+	position: absolute;
+	top: 980px;
+	left: 80px;
+	width: 420px;
+	height: 20px;
+	background: yellow;
+}
+.cu{
+	position: absolute;
+	top: 0px;
+	left: 80px;
+	width: 420px;
+	height: 20px;
+	background: yellow;
+}
+.te{
+	position: absolute;
+	top: 95px;
+	left: 120px;
+	color: black;
+	font-size:17px;
+	
+}
+@font-face{
+	font-family: te;
+	
+}
+.tex{
+	position: absolute;
+	top: 120px;
+	left: 180px;
+	color: black;
+	font-size:25px;
+	
+}
+.texo{
+	position: absolute;
+	top: 250px;
+	left: 170px;
+	
+}
+.text{
+	position: absolute;
+	top: 268px;
+	left: 190px;
+	font-size:19px;
+
+}
+
+.imagen1{
+	position:absolute;
+	top: 700px;
+	left: 350px;
+	height: 200px;
+	width: 200px;
+	background:url(guitarra.png) no-repeat ;
+	background-size: contain;
+
+}
+
+.imgen2{
+	position:absolute;
+	top: 700px;
+	left: 100px;
+	height: 200px;
+	width: 200px;
+	background:url(tambor.png) no-repeat ;
+	background-size: contain;
+}
+.imgen3{
+	position:absolute;
+	top: 700px;
+	left: 250px;
+	height: 100px;
+	width: 100px;
+	background:url(silbato.png) no-repeat ;
+	background-size: contain;
+	z-index: 30px;
+}
+.bande1{
+    position: absolute;
+    top: 430px;
+    left: 100px;
+    width: 100px;
+    height: 100px;
+    background: url(colombia.jpg);
+    background-size: cover;
+    border-radius: 3000px;
+    border:solid 3px;
+    z-index: 4;
+    }
+    .bande2{
+    position: absolute;
+    top: 430px;
+    left: 200px;
+    width: 100px;
+    height: 100px;
+    background: url(peru.png);
+    background-size: cover;
+    border-radius: 3000px;
+    border:solid 3px;
+    z-index: 4;
+    }
+    .bande3{
+    position: absolute;
+    top: 430px;
+    left: 300px;
+    width: 100px;
+    height: 100px;
+    background: url(brasil.png);
+    background-size: cover;
+    border-radius: 3000px;
+    border:solid 3px;
+    z-index: 4;
+    }
+    .bande4{
+    position: absolute;
+    top: 430px;
+    left: 400px;
+    width: 100px;
+    height: 100px;
+    background: url(puerto.png);
+    background-size: cover;
+    border-radius: 3000px;
+    border:solid 3px;
+    z-index: 4;
+    }
+
+@font-face{
+	font-family: t;
+	
+}
